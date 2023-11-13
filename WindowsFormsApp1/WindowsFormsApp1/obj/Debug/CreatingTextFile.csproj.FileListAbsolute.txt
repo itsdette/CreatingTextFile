@@ -1,0 +1,13 @@
+C:\Users\tominio.269291\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\tominio.269291\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\tominio.269291\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\tominio.269291\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CreatingTextFile.csproj.AssemblyReference.cache
+C:\Users\tominio.269291\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CreatingTextFile.csproj.SuggestedBindingRedirects.cache
+C:\Users\tominio.269291\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmFileName.resources
+C:\Users\tominio.269291\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmLab1.resources
+C:\Users\tominio.269291\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\tominio.269291\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CreatingTextFile.csproj.GenerateResource.cache
+C:\Users\tominio.269291\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\CreatingTextFile.csproj.CoreCompileInputs.cache
+C:\Users\tominio.269291\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\tominio.269291\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\tominio.269291\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmRegistration.resources
