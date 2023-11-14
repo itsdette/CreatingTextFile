@@ -23,7 +23,6 @@ namespace WindowsFormsApp1
            SetFileName = txtFileName.Text + ".txt";
             Close();
 
-           new frmRegistration().ShowDialog();
         }
     }
 }
